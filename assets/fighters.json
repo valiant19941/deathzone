@@ -1,26 +1,31 @@
 [{
+    "id": 1,
     "name": "Alexander Gustafsson",
     "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/GUSTAFSSON_ALEXANDER_L_07-23.png?itok=UK84-nBw",
     "stats":  "18w-8L-0",
     "teams": "All Star Gym"
 }, {
+    "id": 2,
     "name": "Alex Pereira",
     "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/3/PEREIRA_ALEX_L_BELT_10-05.png?itok=5O93_Ug3",
     "stats": "12W-2L-0D",
     "teams": "Teixeira MMA & Fitness "
 }, {
+    "id": 3,
     "name": "Islam Makhachev",
     "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/MAKHACHEV_ISLAM_L_BELT_06-01.png?itok=Fys0K4gs",
     "stats": "26W-1L-0D",
     "teams": "Abdulmanap’s gym"
 }, {
+    "id": 4,
     "name": "Jon Jones",
     "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-03/JONES_JON_L_BELT_03_04.png?itok=P6J6DQpm",
     "stats": "27W-1L-0D",
     "teams": "Albuquerque, New Mexico, U.S."
     
 },
-{
+{   
+    "id": 5,
     "name": "Ilia Topuria",
     "image":"https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/TOPURIA_ILIA_L_BELT_10-26.png?itok=MvI4bGIl",
     "stats": "16W-0L-0D",

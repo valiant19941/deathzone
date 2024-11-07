@@ -4,10 +4,10 @@ import ListItem from '../components/itemList'
 
 export default function homeScreen() {
     return(
-        <FlatList data={fighters}
+        <FlatList  data={fighters}
         numColumns={2}
-        contentContainerClassName='gap-2'
-        columnWrapperClassName='gap-2'
+        contentContainerClassName='gap-5'
+        columnWrapperClassName='gap-5'
         renderItem={({item})=> <ListItem list={item}/>}
         />
     )

@@ -4,7 +4,7 @@ import { GluestackUIProvider } from "../components/ui/gluestack-ui-provider";
 
 export default function RootLayout() {
     return (
-        <GluestackUIProvider><Stack screenOptions={{title: "Fighters", headerShown: false}} />
+        <GluestackUIProvider><Stack screenOptions={{title: "Athletes"}}  /> 
         </GluestackUIProvider>
         
     )
